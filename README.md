@@ -11,6 +11,6 @@ In `~/.hyperterm.js` add `hypercolors` to the plugins array.
   ]
 ```
 
-Everytime hyperterm is opened, a randomly generated color scheme is created for that session. Force reloading will also update the colors.
+Every time hyperterm is opened, a randomly generated color scheme is created for that session. Force reloading will also update the colors.
 
 MIT License
