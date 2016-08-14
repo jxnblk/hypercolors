@@ -1,0 +1,16 @@
+{
+  "name": "hypercolors",
+  "version": "1.0.0-beta.1",
+  "description": "Generative hyperterm color theme",
+  "main": "index.js",
+  "keywords": [
+    "hyperterm",
+    "hyperterm-theme"
+  ],
+  "author": "Brent Jackson",
+  "license": "MIT",
+  "dependencies": {
+    "chroma-js": "^1.2.1",
+    "hello-color": "^1.0.1"
+  }
+}
