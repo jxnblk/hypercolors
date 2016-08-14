@@ -15,4 +15,9 @@ In `~/.hyperterm.js` add `hypercolors` to the plugins array.
 
 Every time hyperterm is opened, a randomly generated color scheme is created for that session. Force reloading will also update the colors.
 
+Built with:
+
+- [chroma-js](https://github.com/gka/chroma.js/)
+- [hello-color](https://github.com/jxnblk/hello-color)
+
 MIT License
